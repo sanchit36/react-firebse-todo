@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# React Firebase Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple Todo app made with react and fire base. I have used firebase cloud storage for the backend and storing all the todos.
+
+## Technology Used
+
+- React
+- Material Ui
+- Firebase
+
+## Features
+
+- Add a Todo
+- Update a Todo
+- Delete a Todo
+- Make it Complete
+
+## Deployed
+
+This app is deployed on [firebase](http://www.todo-app-91c86.web.app/).
 
 ## Available Scripts
 
